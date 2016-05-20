@@ -27,6 +27,6 @@ Check out http://doughboy.neilbickford.com/doughboy_1_0_1.zip for a neat playabl
 
 ### ...and Mathematica.
 
-**Special and Limiting Values of the Dedekind Eta Function** (/dedekind-eta) contains code which solves (given enough time) the century-old problem of determining the exact symbolic value of the Dedekind eta function at an imaginary surd (a number of the form $\sqrt{-n}$, where $n\in \mathbb{Z}^+$). It's likely one of the most technical pieces of code I've ever written, but at the end of the day it reduces to a few different kinds of searches and one or two novel data structures. Check out the documentation!
+**Special and Limiting Values of the Dedekind Eta Function** (/dedekind-eta) contains code which solves (given enough time) the century-old problem of determining the exact symbolic value of the Dedekind eta function at an imaginary surd (a number of the form sqrt(-n), where n is an integer greater than zero). It's likely one of the most technical pieces of code I've ever written, but at the end of the day it reduces to a few different kinds of searches and one or two novel data structures. Check out the documentation!
 
 *-NB, Spring 2016.*
