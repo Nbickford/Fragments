@@ -1,0 +1,1909 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>field.png</Source>
+      <Name>field</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\field.xnb</Output>
+      <Time>2012-11-12T13:39:18-08:00</Time>
+    </Item>
+    <Item>
+      <Source>guillotine\Guillotine (boom) 2 .png</Source>
+      <Name>guillotine\Guillotine (boom) 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\guillotine\Guillotine (boom) 2.xnb</Output>
+      <Time>2013-05-07T17:15:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>guillotine\Guillotine (boom).png</Source>
+      <Name>guillotine\Guillotine (boom)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\guillotine\Guillotine (boom).xnb</Output>
+      <Time>2013-01-04T19:36:13-08:00</Time>
+    </Item>
+    <Item>
+      <Source>guillotine\Guillotine (disarm).png</Source>
+      <Name>guillotine\Guillotine (disarm)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\guillotine\Guillotine (disarm).xnb</Output>
+      <Time>2013-01-04T19:36:32-08:00</Time>
+    </Item>
+    <Item>
+      <Source>guillotine\Guillotine (spent) disarm.png</Source>
+      <Name>guillotine\Guillotine (spent) disarm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\guillotine\Guillotine (spent) disarm.xnb</Output>
+      <Time>2013-02-18T16:07:22-08:00</Time>
+    </Item>
+    <Item>
+      <Source>guillotine\Guillotine (spent).png</Source>
+      <Name>guillotine\Guillotine (spent)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\guillotine\Guillotine (spent).xnb</Output>
+      <Time>2013-01-04T19:35:03-08:00</Time>
+    </Item>
+    <Item>
+      <Source>guillotine\Guillotine left transparent.png</Source>
+      <Name>guillotine\Guillotine left transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\guillotine\Guillotine left transparent.xnb</Output>
+      <Time>2013-01-04T19:34:51-08:00</Time>
+    </Item>
+    <Item>
+      <Source>guillotine\Guillotine right transparent.png</Source>
+      <Name>guillotine\Guillotine right transparent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\guillotine\Guillotine right transparent.xnb</Output>
+      <Time>2013-01-04T19:34:49-08:00</Time>
+    </Item>
+    <Item>
+      <Source>guillotine\Guillotine.png</Source>
+      <Name>guillotine\Guillotine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\guillotine\Guillotine.xnb</Output>
+      <Time>2013-01-04T19:34:38-08:00</Time>
+    </Item>
+    <Item>
+      <Source>wall.png</Source>
+      <Name>wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\wall.xnb</Output>
+      <Time>2012-11-12T14:05:27-08:00</Time>
+    </Item>
+    <Item>
+      <Source>open.png</Source>
+      <Name>open</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\open.xnb</Output>
+      <Time>2012-11-23T11:50:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shadow.png</Source>
+      <Name>shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shadow.xnb</Output>
+      <Time>2012-11-23T11:52:09-08:00</Time>
+    </Item>
+    <Item>
+      <Source>53block12.bmp</Source>
+      <Name>53block12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\53block12.xnb</Output>
+      <Time>2012-11-23T12:23:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>opencont.png</Source>
+      <Name>opencont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\opencont.xnb</Output>
+      <Time>2012-11-23T12:25:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>isowall.png</Source>
+      <Name>isowall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\isowall.xnb</Output>
+      <Time>2012-11-23T12:48:43-08:00</Time>
+    </Item>
+    <Item>
+      <Source>isomine.png</Source>
+      <Name>isomine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\isomine.xnb</Output>
+      <Time>2012-11-26T18:06:45-08:00</Time>
+    </Item>
+    <Item>
+      <Source>run.png</Source>
+      <Name>run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\run.xnb</Output>
+      <Time>2012-12-02T16:04:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>kris doughboy.png</Source>
+      <Name>kris doughboy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\kris doughboy.xnb</Output>
+      <Time>2012-12-03T11:09:57-08:00</Time>
+    </Item>
+    <Item>
+      <Source>kris cow.png</Source>
+      <Name>kris cow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\kris cow.xnb</Output>
+      <Time>2012-12-03T11:07:58-08:00</Time>
+    </Item>
+    <Item>
+      <Source>kris cursor.png</Source>
+      <Name>kris cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\kris cursor.xnb</Output>
+      <Time>2012-12-03T11:09:41-08:00</Time>
+    </Item>
+    <Item>
+      <Source>kris wall.png</Source>
+      <Name>kris wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\kris wall.xnb</Output>
+      <Time>2012-12-03T11:08:19-08:00</Time>
+    </Item>
+    <Item>
+      <Source>kris wall 2.png</Source>
+      <Name>kris wall 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\kris wall 2.xnb</Output>
+      <Time>2012-12-03T11:08:21-08:00</Time>
+    </Item>
+    <Item>
+      <Source>kris wall 3.png</Source>
+      <Name>kris wall 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\kris wall 3.xnb</Output>
+      <Time>2012-12-03T11:08:23-08:00</Time>
+    </Item>
+    <Item>
+      <Source>kris mine.png</Source>
+      <Name>kris mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\kris mine.xnb</Output>
+      <Time>2012-12-03T11:11:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>kris money 2.png</Source>
+      <Name>kris money 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\kris money 2.xnb</Output>
+      <Time>2012-12-03T11:20:03-08:00</Time>
+    </Item>
+    <Item>
+      <Source>grass.png</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\grass.xnb</Output>
+      <Time>2012-12-03T15:46:58-08:00</Time>
+    </Item>
+    <Item>
+      <Source>dirt\dirt 1.png</Source>
+      <Name>dirt\dirt 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\dirt\dirt 1.xnb</Output>
+      <Time>2012-12-03T15:58:19-08:00</Time>
+    </Item>
+    <Item>
+      <Source>dirt\dirt 2.png</Source>
+      <Name>dirt\dirt 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\dirt\dirt 2.xnb</Output>
+      <Time>2012-12-03T15:58:19-08:00</Time>
+    </Item>
+    <Item>
+      <Source>dirt\dirt 3.png</Source>
+      <Name>dirt\dirt 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\dirt\dirt 3.xnb</Output>
+      <Time>2012-12-03T15:58:19-08:00</Time>
+    </Item>
+    <Item>
+      <Source>dirt\dirt 4.png</Source>
+      <Name>dirt\dirt 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\dirt\dirt 4.xnb</Output>
+      <Time>2012-12-03T15:58:19-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris doughboy EAST (animation strip).png</Source>
+      <Name>doughboy frames\kris doughboy EAST (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris doughboy EAST (animation strip).xnb</Output>
+      <Time>2012-12-03T16:31:55-08:00</Time>
+    </Item>
+    <Item>
+      <Source>isobait.png</Source>
+      <Name>isobait</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\isobait.xnb</Output>
+      <Time>2012-12-03T17:50:19-08:00</Time>
+    </Item>
+    <Item>
+      <Source>cow frames\cow bait rot 0.png</Source>
+      <Name>cow frames\cow bait rot 0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\cow frames\cow bait rot 0.xnb</Output>
+      <Time>2012-12-03T17:51:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>field-kris.png</Source>
+      <Name>field-kris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\field-kris.xnb</Output>
+      <Time>2012-12-05T17:33:21-08:00</Time>
+    </Item>
+    <Item>
+      <Source>opencont-kris.png</Source>
+      <Name>opencont-kris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\opencont-kris.xnb</Output>
+      <Time>2012-12-05T18:57:25-08:00</Time>
+    </Item>
+    <Item>
+      <Source>open-kris.png</Source>
+      <Name>open-kris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\open-kris.xnb</Output>
+      <Time>2012-12-05T18:59:52-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughbox-kris.png</Source>
+      <Name>doughbox-kris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughbox-kris.xnb</Output>
+      <Time>2012-12-05T19:04:28-08:00</Time>
+    </Item>
+    <Item>
+      <Source>run-kris.png</Source>
+      <Name>run-kris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\run-kris.xnb</Output>
+      <Time>2012-12-05T19:25:22-08:00</Time>
+    </Item>
+    <Item>
+      <Source>testdoughtitle.png</Source>
+      <Name>testdoughtitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\testdoughtitle.xnb</Output>
+      <Time>2012-12-05T21:10:41-08:00</Time>
+    </Item>
+    <Item>
+      <Source>glitch1.png</Source>
+      <Name>glitch1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\glitch1.xnb</Output>
+      <Time>2012-12-05T20:29:31-08:00</Time>
+    </Item>
+    <Item>
+      <Source>glitch2.png</Source>
+      <Name>glitch2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\glitch2.xnb</Output>
+      <Time>2012-12-05T20:29:31-08:00</Time>
+    </Item>
+    <Item>
+      <Source>screenborder.png</Source>
+      <Name>screenborder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\screenborder.xnb</Output>
+      <Time>2012-12-05T20:59:36-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\bait.png</Source>
+      <Name>shop icons\bait</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\bait.xnb</Output>
+      <Time>2012-12-06T12:14:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\disarmboy.png</Source>
+      <Name>shop icons\disarmboy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\disarmboy.xnb</Output>
+      <Time>2012-12-06T12:14:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\doughbomb.png</Source>
+      <Name>shop icons\doughbomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\doughbomb.xnb</Output>
+      <Time>2012-12-06T12:14:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\doughboy.png</Source>
+      <Name>shop icons\doughboy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\doughboy.xnb</Output>
+      <Time>2012-12-06T12:14:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\drillboy.png</Source>
+      <Name>shop icons\drillboy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\drillboy.xnb</Output>
+      <Time>2012-12-06T12:14:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\guillotine.png</Source>
+      <Name>shop icons\guillotine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\guillotine.xnb</Output>
+      <Time>2012-12-06T12:14:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\mine.png</Source>
+      <Name>shop icons\mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\mine.xnb</Output>
+      <Time>2012-12-06T12:14:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\pit trap.png</Source>
+      <Name>shop icons\pit trap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\pit trap.xnb</Output>
+      <Time>2012-12-06T12:14:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\spring board.png</Source>
+      <Name>shop icons\spring board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\spring board.xnb</Output>
+      <Time>2012-12-06T12:14:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\wall.png</Source>
+      <Name>shop icons\wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\wall.xnb</Output>
+      <Time>2012-12-06T12:14:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris disarmer EAST (animation strip).png</Source>
+      <Name>doughboy frames\kris disarmer EAST (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris disarmer EAST (animation strip).xnb</Output>
+      <Time>2012-12-08T16:58:42-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris disarmer NORTH (animation strip).png</Source>
+      <Name>doughboy frames\kris disarmer NORTH (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris disarmer NORTH (animation strip).xnb</Output>
+      <Time>2012-12-08T16:58:43-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris disarmer SOUTH (animation strip).png</Source>
+      <Name>doughboy frames\kris disarmer SOUTH (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris disarmer SOUTH (animation strip).xnb</Output>
+      <Time>2013-01-13T14:22:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris disarmer WEST (animation strip).png</Source>
+      <Name>doughboy frames\kris disarmer WEST (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris disarmer WEST (animation strip).xnb</Output>
+      <Time>2012-12-08T16:58:44-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris doughbomb EAST (animation strip).png</Source>
+      <Name>doughboy frames\kris doughbomb EAST (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris doughbomb EAST (animation strip).xnb</Output>
+      <Time>2013-01-13T14:22:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris doughbomb NORTH (animation strip).png</Source>
+      <Name>doughboy frames\kris doughbomb NORTH (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris doughbomb NORTH (animation strip).xnb</Output>
+      <Time>2012-12-08T16:58:44-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris doughbomb SOUTH (animation strip).png</Source>
+      <Name>doughboy frames\kris doughbomb SOUTH (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris doughbomb SOUTH (animation strip).xnb</Output>
+      <Time>2013-01-13T14:22:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris doughbomb WEST (animation strip).png</Source>
+      <Name>doughboy frames\kris doughbomb WEST (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris doughbomb WEST (animation strip).xnb</Output>
+      <Time>2012-12-08T16:58:45-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris doughboy SOUTH (animation strip).png</Source>
+      <Name>doughboy frames\kris doughboy SOUTH (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris doughboy SOUTH (animation strip).xnb</Output>
+      <Time>2013-01-13T14:22:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris doughboy WEST (animation strip).png</Source>
+      <Name>doughboy frames\kris doughboy WEST (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris doughboy WEST (animation strip).xnb</Output>
+      <Time>2012-12-08T17:00:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris drillboy EAST (animation strip).png</Source>
+      <Name>doughboy frames\kris drillboy EAST (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris drillboy EAST (animation strip).xnb</Output>
+      <Time>2012-12-08T16:58:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris drillboy NORTH (animation strip).png</Source>
+      <Name>doughboy frames\kris drillboy NORTH (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris drillboy NORTH (animation strip).xnb</Output>
+      <Time>2012-12-08T16:58:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris drillboy SOUTH (animation strip).png</Source>
+      <Name>doughboy frames\kris drillboy SOUTH (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris drillboy SOUTH (animation strip).xnb</Output>
+      <Time>2012-12-08T16:58:49-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris drillboy WEST (animation strip).png</Source>
+      <Name>doughboy frames\kris drillboy WEST (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris drillboy WEST (animation strip).xnb</Output>
+      <Time>2012-12-08T16:58:49-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\kris doughboy NORTH (animation strip).png</Source>
+      <Name>doughboy frames\kris doughboy NORTH (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\kris doughboy NORTH (animation strip).xnb</Output>
+      <Time>2012-12-08T16:46:08-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\Dough death- blown up gold.png</Source>
+      <Name>explosions\Dough death- blown up gold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\Dough death- blown up gold.xnb</Output>
+      <Time>2012-12-09T12:29:43-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\Dough death- blown up.png</Source>
+      <Name>explosions\Dough death- blown up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\Dough death- blown up.xnb</Output>
+      <Time>2012-12-09T12:29:43-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\Dough death- timed out gold.png</Source>
+      <Name>explosions\Dough death- timed out gold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\Dough death- timed out gold.xnb</Output>
+      <Time>2012-12-09T12:29:43-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\Dough death- timed out.png</Source>
+      <Name>explosions\Dough death- timed out</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\Dough death- timed out.xnb</Output>
+      <Time>2012-12-09T12:29:43-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\doughbomb boom (animation strip).png</Source>
+      <Name>explosions\doughbomb boom (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\doughbomb boom (animation strip).xnb</Output>
+      <Time>2012-12-09T12:29:43-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\Dough death- guillotined gold.png</Source>
+      <Name>explosions\Dough death- guillotined gold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\Dough death- guillotined gold.xnb</Output>
+      <Time>2012-12-09T12:29:43-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\Dough death- guillotined.png</Source>
+      <Name>explosions\Dough death- guillotined</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\Dough death- guillotined.xnb</Output>
+      <Time>2012-12-09T12:29:43-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\kris mine-boom (animation strip).png</Source>
+      <Name>explosions\kris mine-boom (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\kris mine-boom (animation strip).xnb</Output>
+      <Time>2012-12-09T15:10:49-08:00</Time>
+    </Item>
+    <Item>
+      <Source>kris wall 2-rubble.png</Source>
+      <Name>kris wall 2-rubble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\kris wall 2-rubble.xnb</Output>
+      <Time>2012-12-09T14:09:27-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\kris wall 2-exploding (animation strip).png</Source>
+      <Name>explosions\kris wall 2-exploding (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\kris wall 2-exploding (animation strip).xnb</Output>
+      <Time>2012-12-09T15:13:36-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shadow-kris.png</Source>
+      <Name>shadow-kris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shadow-kris.xnb</Output>
+      <Time>2012-12-09T14:51:33-08:00</Time>
+    </Item>
+    <Item>
+      <Source>pit-trap (with dead-boy).png</Source>
+      <Name>pit-trap (with dead-boy)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\pit-trap (with dead-boy).xnb</Output>
+      <Time>2012-12-09T15:18:11-08:00</Time>
+    </Item>
+    <Item>
+      <Source>pit-trap.png</Source>
+      <Name>pit-trap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\pit-trap.xnb</Output>
+      <Time>2012-12-09T15:18:11-08:00</Time>
+    </Item>
+    <Item>
+      <Source>spring board in action.png</Source>
+      <Name>spring board in action</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\spring board in action.xnb</Output>
+      <Time>2012-12-09T15:29:16-08:00</Time>
+    </Item>
+    <Item>
+      <Source>spring board.png</Source>
+      <Name>spring board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\spring board.xnb</Output>
+      <Time>2012-12-09T15:29:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>cow frames\kris cow EAST (animation strip).png</Source>
+      <Name>cow frames\kris cow EAST (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\cow frames\kris cow EAST (animation strip).xnb</Output>
+      <Time>2012-12-15T14:45:34-08:00</Time>
+    </Item>
+    <Item>
+      <Source>cow frames\kris cow SOUTH (animation strip).png</Source>
+      <Name>cow frames\kris cow SOUTH (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\cow frames\kris cow SOUTH (animation strip).xnb</Output>
+      <Time>2012-12-15T14:45:34-08:00</Time>
+    </Item>
+    <Item>
+      <Source>cow frames\kris cow WEST (animation strip).png</Source>
+      <Name>cow frames\kris cow WEST (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\cow frames\kris cow WEST (animation strip).xnb</Output>
+      <Time>2012-12-15T17:08:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>object can not be placed.png</Source>
+      <Name>object can not be placed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\object can not be placed.xnb</Output>
+      <Time>2012-12-15T14:49:31-08:00</Time>
+    </Item>
+    <Item>
+      <Source>cow frames\kris cow NORTH (animation strip).png</Source>
+      <Name>cow frames\kris cow NORTH (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\cow frames\kris cow NORTH (animation strip).xnb</Output>
+      <Time>2012-12-15T17:07:38-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker 1-1.png</Source>
+      <Name>Bunker battle damage\bunker 1-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker 1-1.xnb</Output>
+      <Time>2013-01-21T10:20:03-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker 1-2.png</Source>
+      <Name>Bunker battle damage\bunker 1-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker 1-2.xnb</Output>
+      <Time>2013-01-21T10:20:03-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker 1-3.png</Source>
+      <Name>Bunker battle damage\bunker 1-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker 1-3.xnb</Output>
+      <Time>2013-01-21T10:20:03-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker 1-4.png</Source>
+      <Name>Bunker battle damage\bunker 1-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker 1-4.xnb</Output>
+      <Time>2013-01-21T10:20:03-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker 1-0.png</Source>
+      <Name>Bunker battle damage\bunker 1-0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker 1-0.xnb</Output>
+      <Time>2012-12-18T11:34:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker 2-1.png</Source>
+      <Name>Bunker battle damage\bunker 2-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker 2-1.xnb</Output>
+      <Time>2013-01-21T10:20:03-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker 2-2.png</Source>
+      <Name>Bunker battle damage\bunker 2-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker 2-2.xnb</Output>
+      <Time>2013-01-21T10:20:03-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker 2-3.png</Source>
+      <Name>Bunker battle damage\bunker 2-3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker 2-3.xnb</Output>
+      <Time>2013-01-21T10:20:03-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker 2-4.png</Source>
+      <Name>Bunker battle damage\bunker 2-4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker 2-4.xnb</Output>
+      <Time>2013-01-21T10:20:03-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker 2-0.png</Source>
+      <Name>Bunker battle damage\bunker 2-0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker 2-0.xnb</Output>
+      <Time>2012-12-18T11:34:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air doughboy- EAST.png</Source>
+      <Name>doughboy jumps\mid air doughboy- EAST</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air doughboy- EAST.xnb</Output>
+      <Time>2012-12-18T12:25:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air doughboy- NORTH.png</Source>
+      <Name>doughboy jumps\mid air doughboy- NORTH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air doughboy- NORTH.xnb</Output>
+      <Time>2012-12-18T12:25:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air doughboy- SOUTH.png</Source>
+      <Name>doughboy jumps\mid air doughboy- SOUTH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air doughboy- SOUTH.xnb</Output>
+      <Time>2012-12-18T12:25:12-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air doughboy- WEST.png</Source>
+      <Name>doughboy jumps\mid air doughboy- WEST</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air doughboy- WEST.xnb</Output>
+      <Time>2012-12-19T09:34:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air disarmer- EAST.png</Source>
+      <Name>doughboy jumps\mid air disarmer- EAST</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air disarmer- EAST.xnb</Output>
+      <Time>2012-12-19T09:34:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air disarmer- NORTH.png</Source>
+      <Name>doughboy jumps\mid air disarmer- NORTH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air disarmer- NORTH.xnb</Output>
+      <Time>2012-12-19T09:34:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air disarmer- SOUTH.png</Source>
+      <Name>doughboy jumps\mid air disarmer- SOUTH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air disarmer- SOUTH.xnb</Output>
+      <Time>2012-12-19T09:34:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air disarmer- WEST.png</Source>
+      <Name>doughboy jumps\mid air disarmer- WEST</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air disarmer- WEST.xnb</Output>
+      <Time>2012-12-19T09:34:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air doughbomb- EAST.png</Source>
+      <Name>doughboy jumps\mid air doughbomb- EAST</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air doughbomb- EAST.xnb</Output>
+      <Time>2012-12-19T09:34:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air doughbomb- NORTH.png</Source>
+      <Name>doughboy jumps\mid air doughbomb- NORTH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air doughbomb- NORTH.xnb</Output>
+      <Time>2012-12-19T09:34:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air doughbomb- SOUTH.png</Source>
+      <Name>doughboy jumps\mid air doughbomb- SOUTH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air doughbomb- SOUTH.xnb</Output>
+      <Time>2012-12-19T09:34:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air doughbomb- WEST.png</Source>
+      <Name>doughboy jumps\mid air doughbomb- WEST</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air doughbomb- WEST.xnb</Output>
+      <Time>2012-12-19T09:34:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air drillboy- EAST.png</Source>
+      <Name>doughboy jumps\mid air drillboy- EAST</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air drillboy- EAST.xnb</Output>
+      <Time>2012-12-19T09:13:40-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air drillboy- NORTH.png</Source>
+      <Name>doughboy jumps\mid air drillboy- NORTH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air drillboy- NORTH.xnb</Output>
+      <Time>2012-12-19T09:34:05-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air drillboy- SOUTH.png</Source>
+      <Name>doughboy jumps\mid air drillboy- SOUTH</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air drillboy- SOUTH.xnb</Output>
+      <Time>2012-12-19T09:13:40-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy jumps\mid air drillboy- WEST.png</Source>
+      <Name>doughboy jumps\mid air drillboy- WEST</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy jumps\mid air drillboy- WEST.xnb</Output>
+      <Time>2012-12-19T09:13:40-08:00</Time>
+    </Item>
+    <Item>
+      <Source>pit-trap (with dead-boy) 2.png</Source>
+      <Name>pit-trap (with dead-boy) 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\pit-trap (with dead-boy) 2.xnb</Output>
+      <Time>2012-12-19T09:15:39-08:00</Time>
+    </Item>
+    <Item>
+      <Source>pit-trap (with dead-boy) 3.png</Source>
+      <Name>pit-trap (with dead-boy) 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\pit-trap (with dead-boy) 3.xnb</Output>
+      <Time>2012-12-19T09:15:39-08:00</Time>
+    </Item>
+    <Item>
+      <Source>technical\pixel.png</Source>
+      <Name>technical\pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\technical\pixel.xnb</Output>
+      <Time>2012-12-26T16:17:29-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\shop icons-bait.png</Source>
+      <Name>shop icons\shop icons-bait</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\shop icons-bait.xnb</Output>
+      <Time>2012-12-26T17:08:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\shop icons-disarmboy.png</Source>
+      <Name>shop icons\shop icons-disarmboy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\shop icons-disarmboy.xnb</Output>
+      <Time>2012-12-26T17:08:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\shop icons-doughbomb.png</Source>
+      <Name>shop icons\shop icons-doughbomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\shop icons-doughbomb.xnb</Output>
+      <Time>2012-12-26T17:08:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\shop icons-doughboy.png</Source>
+      <Name>shop icons\shop icons-doughboy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\shop icons-doughboy.xnb</Output>
+      <Time>2012-12-26T17:08:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\shop icons-drillboy.png</Source>
+      <Name>shop icons\shop icons-drillboy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\shop icons-drillboy.xnb</Output>
+      <Time>2012-12-26T17:08:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\shop icons-guillotine.png</Source>
+      <Name>shop icons\shop icons-guillotine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\shop icons-guillotine.xnb</Output>
+      <Time>2012-12-26T17:08:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\shop icons-mine.png</Source>
+      <Name>shop icons\shop icons-mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\shop icons-mine.xnb</Output>
+      <Time>2013-02-24T19:16:07-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\shop icons-pit trap.png</Source>
+      <Name>shop icons\shop icons-pit trap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\shop icons-pit trap.xnb</Output>
+      <Time>2012-12-26T17:08:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\shop icons-spring board.png</Source>
+      <Name>shop icons\shop icons-spring board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\shop icons-spring board.xnb</Output>
+      <Time>2012-12-26T17:09:59-08:00</Time>
+    </Item>
+    <Item>
+      <Source>shop icons\shop icons-wall.png</Source>
+      <Name>shop icons\shop icons-wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\shop icons\shop icons-wall.xnb</Output>
+      <Time>2012-12-26T17:09:59-08:00</Time>
+    </Item>
+    <Item>
+      <Source>title\title page bg.png</Source>
+      <Name>title\title page bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\title\title page bg.xnb</Output>
+      <Time>2012-12-26T17:15:09-08:00</Time>
+    </Item>
+    <Item>
+      <Source>title\testtitletext kris.png</Source>
+      <Name>title\testtitletext kris</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\title\testtitletext kris.xnb</Output>
+      <Time>2013-02-21T18:21:07-08:00</Time>
+    </Item>
+    <Item>
+      <Source>technical\words.png</Source>
+      <Name>technical\words</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\technical\words.xnb</Output>
+      <Time>2012-12-28T18:06:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>technical\words moved.png</Source>
+      <Name>technical\words moved</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\technical\words moved.xnb</Output>
+      <Time>2012-12-28T18:20:27-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\z kris drillboy EAST (depleted).png</Source>
+      <Name>doughboy frames\z kris drillboy EAST (depleted)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\z kris drillboy EAST (depleted).xnb</Output>
+      <Time>2013-01-13T14:22:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\z kris drillboy NORTH (depleted).png</Source>
+      <Name>doughboy frames\z kris drillboy NORTH (depleted)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\z kris drillboy NORTH (depleted).xnb</Output>
+      <Time>2013-01-13T14:22:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\z kris drillboy SOUTH (depleted).png</Source>
+      <Name>doughboy frames\z kris drillboy SOUTH (depleted)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\z kris drillboy SOUTH (depleted).xnb</Output>
+      <Time>2013-01-13T14:22:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughboy frames\z kris drillboy WEST (depleted).png</Source>
+      <Name>doughboy frames\z kris drillboy WEST (depleted)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughboy frames\z kris drillboy WEST (depleted).xnb</Output>
+      <Time>2013-01-13T14:22:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>barbwire (left end).png</Source>
+      <Name>barbwire (left end)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\barbwire (left end).xnb</Output>
+      <Time>2013-01-13T17:10:42-08:00</Time>
+    </Item>
+    <Item>
+      <Source>barbwire (right end).png</Source>
+      <Name>barbwire (right end)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\barbwire (right end).xnb</Output>
+      <Time>2013-01-13T17:10:42-08:00</Time>
+    </Item>
+    <Item>
+      <Source>barbwire.png</Source>
+      <Name>barbwire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\barbwire.xnb</Output>
+      <Time>2013-01-13T17:10:42-08:00</Time>
+    </Item>
+    <Item>
+      <Source>cow frames\cow boot EAST.png</Source>
+      <Name>cow frames\cow boot EAST</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\cow frames\cow boot EAST.xnb</Output>
+      <Time>2013-01-20T12:43:08-08:00</Time>
+    </Item>
+    <Item>
+      <Source>cow frames\cow boot WEST.png</Source>
+      <Name>cow frames\cow boot WEST</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\cow frames\cow boot WEST.xnb</Output>
+      <Time>2013-01-20T12:43:08-08:00</Time>
+    </Item>
+    <Item>
+      <Source>opt audio off.png</Source>
+      <Name>opt audio off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\opt audio off.xnb</Output>
+      <Time>2013-01-20T19:40:43-08:00</Time>
+    </Item>
+    <Item>
+      <Source>opt audio on.png</Source>
+      <Name>opt audio on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\opt audio on.xnb</Output>
+      <Time>2013-01-20T19:40:43-08:00</Time>
+    </Item>
+    <Item>
+      <Source>opt music off.png</Source>
+      <Name>opt music off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\opt music off.xnb</Output>
+      <Time>2013-01-20T19:40:43-08:00</Time>
+    </Item>
+    <Item>
+      <Source>opt music on.png</Source>
+      <Name>opt music on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\opt music on.xnb</Output>
+      <Time>2013-01-20T19:40:43-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker 1.png</Source>
+      <Name>Bunker battle damage\bunker 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker 1.xnb</Output>
+      <Time>2013-01-21T10:20:01-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker 2.png</Source>
+      <Name>Bunker battle damage\bunker 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker 2.xnb</Output>
+      <Time>2013-01-21T10:20:03-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker dead+bg 1.png</Source>
+      <Name>Bunker battle damage\bunker dead+bg 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker dead+bg 1.xnb</Output>
+      <Time>2013-01-21T10:20:03-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker dead+bg 2.png</Source>
+      <Name>Bunker battle damage\bunker dead+bg 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker dead+bg 2.xnb</Output>
+      <Time>2013-01-21T10:20:01-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\bunker 'splosion.png</Source>
+      <Name>Bunker battle damage\bunker 'splosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\bunker 'splosion.xnb</Output>
+      <Time>2013-01-21T10:25:49-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bunker battle damage\kris mine-boom (animation strip) surrounding explosion.png</Source>
+      <Name>Bunker battle damage\kris mine-boom (animation strip) surrounding explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\Bunker battle damage\kris mine-boom (animation strip) surrounding explosion.xnb</Output>
+      <Time>2013-01-21T10:39:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>title\menu image.png</Source>
+      <Name>title\menu image</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\title\menu image.xnb</Output>
+      <Time>2013-01-28T10:53:21-08:00</Time>
+    </Item>
+    <Item>
+      <Source>title\doughboy title fixed.png</Source>
+      <Name>title\doughboy title fixed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\title\doughboy title fixed.xnb</Output>
+      <Time>2013-01-28T10:55:56-08:00</Time>
+    </Item>
+    <Item>
+      <Source>lvlselect\slide bar frame GO.png</Source>
+      <Name>lvlselect\slide bar frame GO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\lvlselect\slide bar frame GO.xnb</Output>
+      <Time>2013-01-28T17:55:59-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\spring board boom.png</Source>
+      <Name>explosions\spring board boom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\spring board boom.xnb</Output>
+      <Time>2013-01-28T17:56:18-08:00</Time>
+    </Item>
+    <Item>
+      <Source>lvlselect\slide cell.png</Source>
+      <Name>lvlselect\slide cell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\lvlselect\slide cell.xnb</Output>
+      <Time>2013-01-28T17:57:55-08:00</Time>
+    </Item>
+    <Item>
+      <Source>lvlselect\right arrow.png</Source>
+      <Name>lvlselect\right arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\lvlselect\right arrow.xnb</Output>
+      <Time>2013-01-28T17:58:15-08:00</Time>
+    </Item>
+    <Item>
+      <Source>lvlselect\left arrow.png</Source>
+      <Name>lvlselect\left arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\lvlselect\left arrow.xnb</Output>
+      <Time>2013-01-28T17:58:17-08:00</Time>
+    </Item>
+    <Item>
+      <Source>lvlselect\map name place.png</Source>
+      <Name>lvlselect\map name place</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\lvlselect\map name place.xnb</Output>
+      <Time>2013-02-02T17:44:59-08:00</Time>
+    </Item>
+    <Item>
+      <Source>kris wall 2-drilled (animation strip).png</Source>
+      <Name>kris wall 2-drilled (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\kris wall 2-drilled (animation strip).xnb</Output>
+      <Time>2013-02-03T10:40:24-08:00</Time>
+    </Item>
+    <Item>
+      <Source>kris mine (disarmed animation).png</Source>
+      <Name>kris mine (disarmed animation)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\kris mine (disarmed animation).xnb</Output>
+      <Time>2013-02-03T10:41:40-08:00</Time>
+    </Item>
+    <Item>
+      <Source>zzz shock and awe 1.png</Source>
+      <Name>zzz shock and awe 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\zzz shock and awe 1.xnb</Output>
+      <Time>2013-02-03T10:42:44-08:00</Time>
+    </Item>
+    <Item>
+      <Source>zzz shock and awe 2.png</Source>
+      <Name>zzz shock and awe 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\zzz shock and awe 2.xnb</Output>
+      <Time>2013-02-03T10:42:44-08:00</Time>
+    </Item>
+    <Item>
+      <Source>cow frames\cow bait rot 1.png</Source>
+      <Name>cow frames\cow bait rot 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\cow frames\cow bait rot 1.xnb</Output>
+      <Time>2013-02-05T10:53:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>cow frames\cow bait rot 2.png</Source>
+      <Name>cow frames\cow bait rot 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\cow frames\cow bait rot 2.xnb</Output>
+      <Time>2013-02-05T10:53:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>cow frames\cow bait rot 3.png</Source>
+      <Name>cow frames\cow bait rot 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\cow frames\cow bait rot 3.xnb</Output>
+      <Time>2013-02-05T10:53:06-08:00</Time>
+    </Item>
+    <Item>
+      <Source>mini\mini barb 1.png</Source>
+      <Name>mini\mini barb 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\mini\mini barb 1.xnb</Output>
+      <Time>2013-02-14T09:57:30-08:00</Time>
+    </Item>
+    <Item>
+      <Source>mini\mini barb 2.png</Source>
+      <Name>mini\mini barb 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\mini\mini barb 2.xnb</Output>
+      <Time>2013-02-14T09:57:30-08:00</Time>
+    </Item>
+    <Item>
+      <Source>mini\mini barb 3.png</Source>
+      <Name>mini\mini barb 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\mini\mini barb 3.xnb</Output>
+      <Time>2013-02-14T09:57:30-08:00</Time>
+    </Item>
+    <Item>
+      <Source>mini\mini grass 1.png</Source>
+      <Name>mini\mini grass 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\mini\mini grass 1.xnb</Output>
+      <Time>2013-02-14T09:57:30-08:00</Time>
+    </Item>
+    <Item>
+      <Source>mini\mini grass 2.png</Source>
+      <Name>mini\mini grass 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\mini\mini grass 2.xnb</Output>
+      <Time>2013-02-14T09:57:30-08:00</Time>
+    </Item>
+    <Item>
+      <Source>mini\mini guillotine.png</Source>
+      <Name>mini\mini guillotine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\mini\mini guillotine.xnb</Output>
+      <Time>2013-02-14T09:57:30-08:00</Time>
+    </Item>
+    <Item>
+      <Source>mini\mini mine.png</Source>
+      <Name>mini\mini mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\mini\mini mine.xnb</Output>
+      <Time>2013-02-14T09:57:30-08:00</Time>
+    </Item>
+    <Item>
+      <Source>mini\mini pit trap.png</Source>
+      <Name>mini\mini pit trap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\mini\mini pit trap.xnb</Output>
+      <Time>2013-02-14T09:57:30-08:00</Time>
+    </Item>
+    <Item>
+      <Source>mini\mini spring board.png</Source>
+      <Name>mini\mini spring board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\mini\mini spring board.xnb</Output>
+      <Time>2013-02-14T09:57:30-08:00</Time>
+    </Item>
+    <Item>
+      <Source>mini\mini wall.png</Source>
+      <Name>mini\mini wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\mini\mini wall.xnb</Output>
+      <Time>2013-02-14T09:57:30-08:00</Time>
+    </Item>
+    <Item>
+      <Source>title\credits map.png</Source>
+      <Name>title\credits map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\title\credits map.xnb</Output>
+      <Time>2013-02-18T16:23:29-08:00</Time>
+    </Item>
+    <Item>
+      <Source>title\credits page 2.0.png</Source>
+      <Name>title\credits page 2.0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\title\credits page 2.0.xnb</Output>
+      <Time>2013-02-18T16:24:15-08:00</Time>
+    </Item>
+    <Item>
+      <Source>title\title text credits.png</Source>
+      <Name>title\title text credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\title\title text credits.xnb</Output>
+      <Time>2013-02-21T18:20:25-08:00</Time>
+    </Item>
+    <Item>
+      <Source>title\title text options.png</Source>
+      <Name>title\title text options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\title\title text options.xnb</Output>
+      <Time>2013-02-18T16:25:54-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\pit death (animation strip).png</Source>
+      <Name>explosions\pit death (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\pit death (animation strip).xnb</Output>
+      <Time>2013-02-18T20:35:39-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\pit death 2 (animation strip).png</Source>
+      <Name>explosions\pit death 2 (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\pit death 2 (animation strip).xnb</Output>
+      <Time>2013-02-18T20:35:40-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\pit death 3 (animation strip).png</Source>
+      <Name>explosions\pit death 3 (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\pit death 3 (animation strip).xnb</Output>
+      <Time>2013-02-18T20:35:40-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\pit death 4 (animation strip).png</Source>
+      <Name>explosions\pit death 4 (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\pit death 4 (animation strip).xnb</Output>
+      <Time>2013-02-18T20:35:41-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\pit death 5 (animation strip).png</Source>
+      <Name>explosions\pit death 5 (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\pit death 5 (animation strip).xnb</Output>
+      <Time>2013-02-18T20:35:41-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\Dough death- guillotine trip (EAST).png</Source>
+      <Name>explosions\Dough death- guillotine trip (EAST)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\Dough death- guillotine trip (EAST).xnb</Output>
+      <Time>2013-02-18T20:06:51-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\Dough death- guillotine trip (NORTH).png</Source>
+      <Name>explosions\Dough death- guillotine trip (NORTH)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\Dough death- guillotine trip (NORTH).xnb</Output>
+      <Time>2013-02-18T20:06:51-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\Dough death- guillotine trip (SOUTH).png</Source>
+      <Name>explosions\Dough death- guillotine trip (SOUTH)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\Dough death- guillotine trip (SOUTH).xnb</Output>
+      <Time>2013-02-18T20:06:51-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\Dough death- guillotine trip (WEST).png</Source>
+      <Name>explosions\Dough death- guillotine trip (WEST)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\Dough death- guillotine trip (WEST).xnb</Output>
+      <Time>2013-02-18T20:06:51-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\pit-trap (animation strip) disarmer.png</Source>
+      <Name>explosions\pit-trap (animation strip) disarmer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\pit-trap (animation strip) disarmer.xnb</Output>
+      <Time>2013-02-18T20:48:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\pit-trap (animation strip).png</Source>
+      <Name>explosions\pit-trap (animation strip)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\pit-trap (animation strip).xnb</Output>
+      <Time>2013-02-18T20:48:48-08:00</Time>
+    </Item>
+    <Item>
+      <Source>explosions\pit-trap (animation strip) doughbomb.png</Source>
+      <Name>explosions\pit-trap (animation strip) doughbomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\explosions\pit-trap (animation strip) doughbomb.xnb</Output>
+      <Time>2013-02-18T20:48:47-08:00</Time>
+    </Item>
+    <Item>
+      <Source>title\title back.png</Source>
+      <Name>title\title back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\title\title back.xnb</Output>
+      <Time>2013-02-19T13:34:00-08:00</Time>
+    </Item>
+    <Item>
+      <Source>title\checkbox checked.png</Source>
+      <Name>title\checkbox checked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\title\checkbox checked.xnb</Output>
+      <Time>2013-02-19T13:34:45-08:00</Time>
+    </Item>
+    <Item>
+      <Source>title\checkbox.png</Source>
+      <Name>title\checkbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\title\checkbox.xnb</Output>
+      <Time>2013-02-19T13:34:45-08:00</Time>
+    </Item>
+    <Item>
+      <Source>lvlselect\slide bar frame.png</Source>
+      <Name>lvlselect\slide bar frame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\lvlselect\slide bar frame.xnb</Output>
+      <Time>2013-02-24T18:55:50-08:00</Time>
+    </Item>
+    <Item>
+      <Source>doughbox tutorial.png</Source>
+      <Name>doughbox tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughbox tutorial.xnb</Output>
+      <Time>2013-03-10T14:18:37-07:00</Time>
+    </Item>
+    <Item>
+      <Source>doughbox tutorial flipped.png</Source>
+      <Name>doughbox tutorial flipped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\doughbox tutorial flipped.xnb</Output>
+      <Time>2013-03-10T14:33:31-07:00</Time>
+    </Item>
+    <Item>
+      <Source>a down arrow.png</Source>
+      <Name>a down arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\a down arrow.xnb</Output>
+      <Time>2013-03-10T14:47:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>a arrows animation strip.png</Source>
+      <Name>a arrows animation strip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\a arrows animation strip.xnb</Output>
+      <Time>2013-03-10T18:03:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>technical\checkbox checked.png</Source>
+      <Name>technical\checkbox checked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\technical\checkbox checked.xnb</Output>
+      <Time>2013-04-08T12:16:04-07:00</Time>
+    </Item>
+    <Item>
+      <Source>technical\checkbox.png</Source>
+      <Name>technical\checkbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\technical\checkbox.xnb</Output>
+      <Time>2013-04-08T12:16:04-07:00</Time>
+    </Item>
+    <Item>
+      <Source>technical\opt full size.png</Source>
+      <Name>technical\opt full size</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\technical\opt full size.xnb</Output>
+      <Time>2013-04-08T16:56:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>technical\opt half size.png</Source>
+      <Name>technical\opt half size</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\technical\opt half size.xnb</Output>
+      <Time>2013-04-08T17:00:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>04s12.bmp</Source>
+      <Name>04s12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\04s12.xnb</Output>
+      <Time>2013-04-08T16:44:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>04s18.bmp</Source>
+      <Name>04s18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\04s18.xnb</Output>
+      <Time>2013-04-08T16:44:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>technical\cost selector.png</Source>
+      <Name>technical\cost selector</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\technical\cost selector.xnb</Output>
+      <Time>2013-04-29T23:30:15.825916-07:00</Time>
+    </Item>
+    <Item>
+      <Source>barbwire (both ends).png</Source>
+      <Name>barbwire (both ends)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\barbwire (both ends).xnb</Output>
+      <Time>2013-05-07T16:49:25-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mini\mini barb 4.png</Source>
+      <Name>mini\mini barb 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\mini\mini barb 4.xnb</Output>
+      <Time>2013-05-07T16:54:17-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\neil\Dropbox\Doughboy\Doughboy\DoughboyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\neil\Dropbox\Doughboy\Doughboy\DoughboyContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-04-27T16:43:49.392678-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

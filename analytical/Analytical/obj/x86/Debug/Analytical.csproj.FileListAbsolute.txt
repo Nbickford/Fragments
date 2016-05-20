@@ -1,0 +1,11 @@
+C:\Users\neil\Documents\Sync\code\analytical\Analytical\bin\Debug\Analytical.exe
+C:\Users\neil\Documents\Sync\code\analytical\Analytical\bin\Debug\Analytical.pdb
+C:\Users\neil\Documents\Sync\code\analytical\Analytical\bin\Debug\NAudio.dll
+C:\Users\neil\Documents\Sync\code\analytical\Analytical\bin\Debug\NAudio.xml
+C:\Users\neil\Documents\Sync\code\analytical\Analytical\obj\x86\Debug\Analytical.csprojResolveAssemblyReference.cache
+C:\Users\neil\Documents\Sync\code\analytical\Analytical\obj\x86\Debug\Analytical.exe
+C:\Users\neil\Documents\Sync\code\analytical\Analytical\obj\x86\Debug\Analytical.pdb
+C:\Users\neil\Documents\Sync\code\analytical\Analytical\bin\Debug\Analytical.exe.config
+D:\N.B\Sync\code\analytical\Analytical\bin\Debug\Analytical.exe.config
+D:\N.B\Sync\code\analytical\Analytical\obj\x86\Debug\Analytical.exe
+D:\N.B\Sync\code\analytical\Analytical\obj\x86\Debug\Analytical.pdb

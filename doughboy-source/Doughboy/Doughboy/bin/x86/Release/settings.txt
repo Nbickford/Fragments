@@ -1,0 +1,8 @@
+Music True
+Sound Effects True
+Tutorial True
+Boards boards.dboy
+Fullscreen False
+Money 3
+Mines False
+Clicks True

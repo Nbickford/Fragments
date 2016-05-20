@@ -1,0 +1,160 @@
+scenario 0
+0,0,0,0,0,0,0,0,0,0
+0,0,1,1,0,0,1,1,0,0
+0,0,1,1,0,0,1,1,0,0
+0,0,0,9,0,6,0,1,0,5
+0,0,0,9,0,0,0,1,0,0
+0,0,1,1,0,0,1,1,1,1
+0,0,1,1,0,0,1,1,1,1
+0,0,0,0,0,0,0,0,0,0
+"INFILTRATE THE OTHER SIDE'S BASE!"
+fboy 0 1
+0.0 w,-1,3
+1.0 e,-1,3
+1.6 j,2,3
+3.2 s,7,3
+3.4 e,7,4
+3.5 j,7,4
+end
+"MULTIPLE WAYS TO PROCEED"
+fboy 0 1
+0.4 n,1,3
+1.0 e,1,0
+2.4 s,8,0
+3.2 e,8,4
+end
+"BUT DON'T TAKE TOO LONG!"
+fboy 0 1
+0.4 s,1,3
+1.2 e,1,7
+1.8 n,4,7
+3.2 e,4,0
+4.0 s,8,0
+4.8 e,8,4
+end
+"TRAPS ARE HARMFUL TO YOUR HEALTH"
+fboy 0 1
+end
+"TRAPS ARE HARMFUL TO YOUR HEALTH"
+fboy 0 1
+2.6 j,7,3
+end
+"TRAPS ARE HARMFUL TO YOUR HEALTH"
+fboy 0 1
+0.0 w,-1,3
+2.0 x,-1,3
+end
+scenario 1 (traps)
+5,0,0,9,0,0,9,0,0,0
+0,0,0,9,0,0,9,0,0,0
+0,0,5,5,5,5,5,1,0,0
+0,0,0,0,0,0,5,1,0,0
+0,0,5,0,0,0,0,9,0,0
+0,0,5,5,5,5,5,5,7,7
+0,0,0,0,7,0,0,0,0,0
+0,0,0,0,7,0,0,0,0,0
+"TRAPS ARE BAD FOR DOUGHBOYS!"
+fboy 0 0
+0.0 e,10,3
+1.0 w,10,3
+1.2 s,9,3
+1.4 w,9,4
+end
+"SPIKE PITS ARE SURPRISINGLY DEADLY!"
+fboy 0 1
+0.4 n,1,3
+1.0 e,1,0
+end
+"BUT YOU CAN AVOID THEM"
+fboy 0 1
+0.4 n,1,3
+1.0 e,1,0
+1.6 s,4,0
+1.8 e,4,1
+2.0 j,5,1
+2.6 s,8,1
+3.0 e,8,3
+end
+"GUILLOTINES ARE SIMILARLY DEADLY!"
+fboy 0 0
+0.4 s,8,3
+end
+"YOU CAN JUMP OVER USED ONES"
+fboy 0 0
+0.0 e,10,3
+1.0 w,10,3
+1.4 s,8,3
+1.6 j,8,4
+2.0 w,8,6
+2.6 j,5,6
+end
+"YOU CAN JUMP OVER USED ONES ONLY!"
+fboy 0 0
+0.4 s,8,3
+0.6 j,8,4
+1.0 w,8,6
+1.6 j,5,6
+2.4 n,1,6
+2.8 w,1,4
+end
+"MINES BLOW UP..."
+fboy 0 0
+0.2 n,9,3
+0.8 w,9,0
+1.2 j,7,0
+end
+"...AND CAN CAUSE CHAIN REACTIONS!"
+fboy 0 0
+0.2 s,9,3
+0.4 w,9,4
+0.6 j,8,4
+end
+"WATCH OUT FOR STRATEGICALLY PLACED WALLS!"
+fboy 0 1
+1.2 j,5,3
+end
+"WATCH OUT FOR STRATEGICALLY PLACED WALLS!"
+fboy 0 1
+0.0 w,-1,3
+2.0 x,-1,3
+end
+scenario 2 (doughboy types)
+0,0,5,1,1,1,1,5,7,0
+0,0,0,1,1,1,1,5,9,0
+0,0,0,1,1,1,1,5,9,0
+0,0,0,1,1,1,1,5,7,0
+0,0,0,1,1,1,1,5,9,0
+0,0,0,1,1,1,1,5,9,0
+0,0,0,1,1,1,1,5,7,0
+0,0,0,1,1,1,1,5,9,0
+"NORMAL DOUGHBOYS CAN'T DO MUCH."
+fboy 0 1
+4.0 n,2,3
+end
+"THAT'S WHY EXTRA TYPES ARE IMPORTANT!"
+fboy 0 1
+0.0 w,-1,3
+2.0 x,-1,3
+end
+"DRILLERS CAN DRILL THROUGH 3 WALLS!"
+fboy 2 1
+end
+"BOMBERS BLOW UP WHEN JUMP IS PRESSED!"
+fboy 1 1
+2.0 j,5,3
+end
+"DISARMERS DISARM NON-PIT TRAPS!"
+fboy 3 1
+2.0 s,9,3
+2.6 w,9,6
+3.0 n,7,6
+3.6 e,7,3
+end
+"DOUGHBOY TYPES PRODUCE RESULTS!"
+fboy 0 1
+end
+"DOUGHBOY TYPES PRODUCE RESULTS!"
+fboy 0 1
+0.0 w,-1,3
+2.0 x,-1,3
+end

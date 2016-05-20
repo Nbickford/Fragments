@@ -1,0 +1,213 @@
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\field.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\guillotine\Guillotine (boom) 2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\guillotine\Guillotine (boom).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\guillotine\Guillotine (disarm).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\guillotine\Guillotine (spent) disarm.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\guillotine\Guillotine (spent).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\guillotine\Guillotine left transparent.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\guillotine\Guillotine right transparent.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\guillotine\Guillotine.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\wall.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\open.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shadow.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\53block12.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\opencont.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\isowall.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\isomine.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\run.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\kris doughboy.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\kris cow.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\kris cursor.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\kris wall.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\kris wall 2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\kris wall 3.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\kris mine.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\kris money 2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\grass.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\dirt\dirt 1.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\dirt\dirt 2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\dirt\dirt 3.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\dirt\dirt 4.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris doughboy EAST (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\isobait.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\cow frames\cow bait rot 0.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\field-kris.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\opencont-kris.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\open-kris.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughbox-kris.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\run-kris.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\testdoughtitle.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\glitch1.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\glitch2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\screenborder.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\bait.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\disarmboy.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\doughbomb.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\doughboy.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\drillboy.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\guillotine.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\mine.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\pit trap.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\spring board.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\wall.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris disarmer EAST (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris disarmer NORTH (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris disarmer SOUTH (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris disarmer WEST (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris doughbomb EAST (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris doughbomb NORTH (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris doughbomb SOUTH (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris doughbomb WEST (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris doughboy SOUTH (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris doughboy WEST (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris drillboy EAST (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris drillboy NORTH (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris drillboy SOUTH (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris drillboy WEST (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\kris doughboy NORTH (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\Dough death- blown up gold.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\Dough death- blown up.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\Dough death- timed out gold.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\Dough death- timed out.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\doughbomb boom (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\Dough death- guillotined gold.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\Dough death- guillotined.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\kris mine-boom (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\kris wall 2-rubble.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\kris wall 2-exploding (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shadow-kris.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\pit-trap (with dead-boy).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\pit-trap.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\spring board in action.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\spring board.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\cow frames\kris cow EAST (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\cow frames\kris cow SOUTH (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\cow frames\kris cow WEST (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\object can not be placed.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\cow frames\kris cow NORTH (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker 1-1.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker 1-2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker 1-3.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker 1-4.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker 1-0.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker 2-1.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker 2-2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker 2-3.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker 2-4.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker 2-0.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air doughboy- EAST.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air doughboy- NORTH.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air doughboy- SOUTH.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air doughboy- WEST.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air disarmer- EAST.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air disarmer- NORTH.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air disarmer- SOUTH.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air disarmer- WEST.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air doughbomb- EAST.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air doughbomb- NORTH.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air doughbomb- SOUTH.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air doughbomb- WEST.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air drillboy- EAST.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air drillboy- NORTH.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air drillboy- SOUTH.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy jumps\mid air drillboy- WEST.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\pit-trap (with dead-boy) 2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\pit-trap (with dead-boy) 3.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\technical\pixel.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\shop icons-bait.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\shop icons-disarmboy.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\shop icons-doughbomb.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\shop icons-doughboy.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\shop icons-drillboy.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\shop icons-guillotine.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\shop icons-mine.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\shop icons-pit trap.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\shop icons-spring board.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\shop icons\shop icons-wall.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\title\title page bg.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\title\testtitletext kris.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\technical\words.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\technical\words moved.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\z kris drillboy EAST (depleted).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\z kris drillboy NORTH (depleted).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\z kris drillboy SOUTH (depleted).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughboy frames\z kris drillboy WEST (depleted).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\barbwire (left end).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\barbwire (right end).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\barbwire.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\cow frames\cow boot EAST.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\cow frames\cow boot WEST.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\opt audio off.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\opt audio on.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\opt music off.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\opt music on.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker 1.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker 2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker dead+bg 1.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker dead+bg 2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\bunker 'splosion.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\Bunker battle damage\kris mine-boom (animation strip) surrounding explosion.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\title\menu image.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\title\doughboy title fixed.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\lvlselect\slide bar frame GO.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\spring board boom.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\lvlselect\slide cell.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\lvlselect\right arrow.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\lvlselect\left arrow.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\lvlselect\map name place.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\kris wall 2-drilled (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\kris mine (disarmed animation).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\zzz shock and awe 1.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\zzz shock and awe 2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\cow frames\cow bait rot 1.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\cow frames\cow bait rot 2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\cow frames\cow bait rot 3.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\mini\mini barb 1.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\mini\mini barb 2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\mini\mini barb 3.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\mini\mini grass 1.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\mini\mini grass 2.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\mini\mini guillotine.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\mini\mini mine.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\mini\mini pit trap.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\mini\mini spring board.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\mini\mini wall.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\title\credits map.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\title\credits page 2.0.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\title\title text credits.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\title\title text options.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\pit death (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\pit death 2 (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\pit death 3 (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\pit death 4 (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\pit death 5 (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\Dough death- guillotine trip (EAST).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\Dough death- guillotine trip (NORTH).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\Dough death- guillotine trip (SOUTH).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\Dough death- guillotine trip (WEST).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\pit-trap (animation strip) disarmer.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\pit-trap (animation strip).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\explosions\pit-trap (animation strip) doughbomb.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\title\title back.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\title\checkbox checked.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\title\checkbox.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\lvlselect\slide bar frame.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughbox tutorial.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\doughbox tutorial flipped.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\a down arrow.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\a arrows animation strip.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\technical\checkbox checked.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\technical\checkbox.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\technical\opt full size.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\technical\opt half size.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\04s12.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\04s18.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\technical\cost selector.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\barbwire (both ends).xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Content\mini\mini barb 4.xnb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Doughboy.exe
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\obj\x86\Release\Doughboy.exe
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\bin\x86\Release\Doughboy.pdb
+C:\Users\neil\Dropbox\Doughboy\Doughboy\Doughboy\obj\x86\Release\Doughboy.pdb

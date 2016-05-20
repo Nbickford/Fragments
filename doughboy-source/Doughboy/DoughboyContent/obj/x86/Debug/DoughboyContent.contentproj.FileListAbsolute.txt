@@ -1,0 +1,2 @@
+c:\users\neil\documents\visual studio 2010\Projects\Doughboy\Doughboy\DoughboyContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\neil\Dropbox\Doughboy\Doughboy\DoughboyContent\obj\x86\Debug\DoughboyContent.contentprojResolveAssemblyReference.cache
