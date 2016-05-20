@@ -3,10 +3,6 @@ Code samples from interesting projects.
 
 ------
 
-|------:
-
-test
-
 ### GLSL...
 
 *... distance fields, and real-time path tracing:* [**Theme From Brazil**](https://www.shadertoy.com/view/MtSGzW) started out as a real-time theatrical lighting test, but soon turned into a neat sort of mini-demo.
